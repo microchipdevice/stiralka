@@ -34,7 +34,7 @@
 // Also note that you need to click "start" on a bot before it can
 // message you
 #define CHAT_ID_vov "chat ID"
-#define CHAT_ID2_vlad "454936220"
+
 
 
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
